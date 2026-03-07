@@ -1,0 +1,16 @@
+# Python dependencies for RTL-Hermes Emulator
+
+# Core dependencies
+numpy>=1.19.0
+scipy>=1.5.0
+
+# RTL-SDR interface
+pyrtlsdr>=0.2.8
+
+# Optional: For enhanced performance on Raspberry Pi
+# Note: These may need to be installed via apt first
+# sudo apt-get install python3-numpy python3-scipy
+
+# Development and testing (optional)
+# pytest>=6.0.0
+# pytest-cov>=2.0.0

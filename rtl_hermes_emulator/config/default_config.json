@@ -1,0 +1,11 @@
+{
+    "rtlsdr_device": 0,
+    "sample_rate": 256000,
+    "output_rate": 48000,
+    "frequency": 7150000,
+    "gain": 25.0,
+    "auto_gain": false,
+    "network_host": "0.0.0.0",
+    "network_port": 1024,
+    "device_name": "RTL-Hermes"
+}
